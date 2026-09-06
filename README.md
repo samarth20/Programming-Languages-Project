@@ -10,7 +10,7 @@ A Pacman-style desktop game built in **Haskell** using **Functional Reactive Pro
   <b>Haskell</b> · <b>Functional Reactive Programming</b> · <b>Reactive.Banana</b> · <b>wxWidgets</b>
 </p>
 
-## 🎮 Features
+##  Features
 
 | Feature         | Description                                         |
 | --------------- | --------------------------------------------------- |
@@ -23,7 +23,7 @@ A Pacman-style desktop game built in **Haskell** using **Functional Reactive Pro
 | ⏯️ Game Control | Pause, restart and quit functionality               |
 | 🖥️ GUI         | Desktop interface built with wxWidgets              |
 
-## 🧠 Technical Highlights
+##  Technical Highlights
 
 ### Functional Reactive Architecture
 
@@ -62,7 +62,7 @@ Ghost behavior also supports different modes, including:
 
 The maze is represented using connected nodes rather than arbitrary screen coordinates. This provides a structured navigation model for both Pacman and ghosts.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ```text
 Language       Haskell
@@ -74,7 +74,7 @@ Data           HashMap
 Concepts       Event-driven programming · State management · Graph navigation
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Pacman/
@@ -100,7 +100,7 @@ Pacman/
 └── cabal.project
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -118,14 +118,6 @@ cabal build
 
 ```bash
 cabal run
-```
-
-## 🎥 Demo
-
-Add a gameplay GIF here once available:
-
-```markdown
-![Gameplay Demo](docs/screenshots/gameplay.gif)
 ```
 
 <p align="center">
