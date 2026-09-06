@@ -3,7 +3,7 @@
 A Pacman-style desktop game built in **Haskell** using **Functional Reactive Programming (FRP)**. The project combines reactive event handling, immutable game state, graph-based maze navigation, and goal-directed ghost behavior.
 
 <p align="center">
-  <img src="docs/screenshots/gameplay.png" alt="Pacman gameplay" width="700"/>
+  <img src="gameplay.png" alt="Pacman gameplay" width="700"/>
 </p>
 
 <p align="center">
