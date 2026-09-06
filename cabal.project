@@ -1,0 +1,15 @@
+packages:
+  C:\Users\daniw\Documents\Vertiefungsproject\wxHaskell\wxdirect
+  C:\Users\daniw\Documents\Vertiefungsproject\wxHaskell\wxcore
+  C:\Users\daniw\Documents\Vertiefungsproject\wxHaskell\wx
+  C:\Users\daniw\Documents\Vertiefungsproject\reactive-banana\reactive-banana-wx
+  C:\Users\daniw\Documents\Vertiefungsproject\reactive-banana\reactive-banana
+  Pacman/
+
+allow-newer:
+  reactive-banana-wx:Cabal,
+  reactive-banana-wx:cabal-macosx
+
+allow-newer: true
+
+with-compiler: C:\ghcup\ghc\9.6.7\bin\ghc-9.6.7.exe
